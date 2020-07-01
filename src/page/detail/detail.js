@@ -2,3 +2,6 @@ require('./detail.css')
 
 
 
+
+
+
